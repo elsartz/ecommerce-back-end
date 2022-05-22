@@ -1,4 +1,4 @@
-![badge](https://img.shields.io/badge/license-mit-green)
+![badge](https://img.shields.io/badge/license-isc-green)
   # E-commerce Back-End
   
   ## A fully working back-end database system for a retail site.
@@ -14,10 +14,15 @@
   - [Questions](#questions)
 
   # Installation
-    To run this application you going to need Node.js and to test it Insomnia.
+    It is a command-line application that's why we are going to need: 
+   - Node.js to run the application and some modules from the npm library, 
+     - Express.js to build the server,
+     - MySQL2 module to handle the database queries,
+     - Sequelize to interact with a MySQL database. 
 
   # Usage
-    Build the back end for an e-commerce site.
+    To build the back end for an e-commerce site.
+   ➡️ Here is a demo you can watch on [youtube](https://youtu.be/KYfFfXbpu_4)
 
   # Contributing
     Vardis Sartzetakis
@@ -26,7 +31,10 @@
   Follow the link for more info about the license [mit](https://choosealicense.com/licenses/mit)
 
   # Tests
-    Look at the screenshots and follow the link of the demo video.
+    Look at the screenshots and follow the link of the demo video above.
+  ![Categories](https://github.com/elsartz/ecommerce-back-end/blob/main/img/GET%20categories.png)
+  ![Products](https://github.com/elsartz/ecommerce-back-end/blob/main/img/GET%20products.png)
+  ![Tags](https://github.com/elsartz/ecommerce-back-end/blob/main/img/GET%20tags.png)
 
   # Questions
   If you have any questions, please contact me at [email](mailto:elsartz@gmail.com).
